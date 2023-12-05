@@ -4,9 +4,13 @@
     box-sizing: border-box;
     font-family: cursive;
 }
+/* .abc{
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+} */
 h1{
     color: green;
-    text-align:center;
 }
 span{
     /* background-color: rebeccapurple; */
